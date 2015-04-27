@@ -1,1 +1,6 @@
 Just little random projects.
+
+decks.rb creates a deck of cards, shuffles it and returns the first 5
+dog.rb creates a pet dog, like a tamagotchi. You can name it, feed it, walk it and stuff
+german.rb takes a number and returns the German word for it up to 999
+time.rb tells you how many seconds old you are, the day you turn 1 billion seconds old, and the exact halfway point of your life
